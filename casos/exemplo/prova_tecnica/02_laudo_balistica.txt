@@ -1,0 +1,18 @@
+DOCUMENTO FICTÍCIO — PARA TESTE DO PIPELINE
+
+LAUDO DE PERÍCIA BALÍSTICA
+Instituto de Criminalística — Laudo nº 233/2025 — fls. 80/85
+Perito Oficial: Dr. Rafael Lima (assinado)
+Data: 20/03/2025
+
+Material examinado:
+- 01 projétil recuperado do corpo da vítima (Ferimento 2, ref. Laudo 512/2025).
+- 02 estojos deflagrados coletados no local do crime (Rua das Flores).
+
+Conclusões:
+1. Os dois estojos são de calibre .38 e foram deflagrados pela MESMA arma.
+2. O projétil recuperado é compatível com calibre .38.
+3. NÃO foi apresentada arma de fogo à perícia para confronto balístico direto;
+   portanto, não é possível vincular os disparos a uma arma específica.
+4. A posição dos estojos indica que os disparos partiram de distância curta
+   (aproximadamente 1 a 2 metros da vítima).

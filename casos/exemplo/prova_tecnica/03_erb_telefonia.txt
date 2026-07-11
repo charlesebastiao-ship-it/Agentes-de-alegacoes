@@ -1,0 +1,17 @@
+DOCUMENTO FICTÍCIO — PARA TESTE DO PIPELINE
+
+RELATÓRIO DE QUEBRA DE SIGILO — ERB (ANTENAS DE CELULAR)
+Operadora de Telefonia — Ofício nº 77/2025 — fls. 100/104
+
+Alvo: linha (00) 9xxxx-xxxx, cadastrada em nome de CARLOS PEREIRA.
+Período analisado: 12/03/2025.
+
+Registros relevantes:
+- 22h18 — conexão à ERB "Setor Centro-3", que cobre a região da Rua das
+  Flores (raio aproximado de 800 m).
+- 22h41 — nova conexão à ERB "Setor Centro-3".
+- 23h05 — conexão à ERB "Setor Norte-1", que cobre o bairro vizinho.
+
+Observação técnica: o registro em ERB indica que o aparelho esteve na área de
+cobertura da antena, não a posição exata do usuário. A cobertura da ERB
+"Setor Centro-3" inclui a Rua das Flores e vias adjacentes.

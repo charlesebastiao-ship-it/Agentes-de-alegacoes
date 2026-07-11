@@ -1,0 +1,24 @@
+# Segredos e ambiente
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Saídas geradas pela análise (relatórios, dossiês)
+casos/**/saida/
+*.local.*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editable install artifacts
+src/*.egg-info/
