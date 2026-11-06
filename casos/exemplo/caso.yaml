@@ -1,0 +1,14 @@
+# Metadados do caso (todos os campos são opcionais).
+# CASO FICTÍCIO, criado apenas para demonstrar o pipeline.
+nome: "Ação Penal nº 0001234-56.2025.8.00.0000 (FICTÍCIO)"
+numero: "0001234-56.2025.8.00.0000"
+tipo_peca: acusacao      # acusacao | defesa
+tese: condenacao         # condenacao | absolvicao
+reu: "Carlos Pereira"
+vitima: "Antônio Silva"
+resumo: >
+  Imputa-se ao réu a prática de homicídio contra a vítima Antônio Silva,
+  ocorrido em 12/03/2025, por disparo de arma de fogo, na Rua das Flores.
+observacoes: >
+  Atenção à divergência entre a fase policial e a judicial no depoimento da
+  testemunha João Souza.
